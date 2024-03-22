@@ -10,6 +10,7 @@
 ### 활동
 - 유니티 게임 'Black Out' 개발
 <img width="50%" src="./black-out.gif">
+
 - 사용자 음성 반응 3D 웹사이트 'Objects in Wonderland' 개발>
 <img width="50%" src="./objectsInWonderland.gif">
 
