@@ -1,6 +1,8 @@
 
 <h1> 이동인 Dong-in Lee / Harper </h1>
 <br>
+
+<h3 align="center">Creation  Beyond  Imagination</p>
 <img src="./portrait.jpg">
 
 ### 프로필
