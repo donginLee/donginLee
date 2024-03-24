@@ -2,7 +2,7 @@
 <h1> 이동인 Dong-in Lee / Harper </h1>
 <br>
 
-<h3 align="center">Creation  Beyond  Imagination</p>
+<h3 align="center" >Creation  Beyond  Imagination</p>
 <img src="./portrait.jpg">
 
 ### 프로필
@@ -14,9 +14,11 @@
 - 유니티 게임 'Black Out' 개발
 <br>
 <img width="50%" src="./black-out.gif">
+
 - 사용자 음성 반응 3D 웹사이트 'Objects in Wonderland' 개발>
 <br>
 <img width="50%" src="./objectsInWonderland.gif">
+
 - 프로세싱(javascript) 기반 미니 육아 게임 개발
 <br>
 <img width="50%" src="./babySittingGame.gif">
