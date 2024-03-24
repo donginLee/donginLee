@@ -19,7 +19,7 @@
 <br>
 <img width="50%" src="./objectsInWonderland.gif">
 
-- 프로세싱(javascript) 기반 미니 육아 게임 개발
+- 머신러닝 / 프로세싱(javascript) 기반 미니 육아 게임 개발
 <br>
 <img width="50%" src="./babySittingGame.gif">
 
