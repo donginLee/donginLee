@@ -18,7 +18,7 @@
 - 사용자 음성 반응 3D 웹사이트 'Objects in Wonderland' 개발>
 <br>
 
-![812BE78A-85D6-4AC1-A552-E8A6234B994A_4_5005_c](https://github.com/donginLee/donginLee/assets/55528388/d2925b93-afb9-4dbf-baba-cb3b10968bae)
+<img width="50%" src="./objectsInWonderland.gif">
 
 - 프로세싱(javascript) 기반 미니 육아 게임 개발
 <br>
