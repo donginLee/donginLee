@@ -3,9 +3,9 @@
 
 <img src="./portrait.jpg">
 <br>
-<h3 align="center" style = "font-style:italic; color:#000000;">Creation  Beyond  Imagination</h3>
-<h3 align="center" style = "font-style:italic; color:#505050;">Creation  Beyond  Imagination</h3>
 <h3 align="center" style = "font-style:italic; color:#999999;">Creation  Beyond  Imagination</h3>
+<h3 align="center" style = "font-style:italic; color:#505050;">Creation  Beyond  Imagination</h3>
+<h3 align="center" style = "font-style:italic; color:#000000;">Creation  Beyond  Imagination</h3>
 <br>
 ### 프로필
 
