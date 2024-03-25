@@ -21,7 +21,6 @@
 
 - 사용자 음성 반응 3D 웹사이트 'Objects in Wonderland' 개발>
 <br>
-
 <img width="50%" src="./objectsInWonderland.gif">
 
 - 프로세싱(javascript) 기반 미니 육아 게임 개발
