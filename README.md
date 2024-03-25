@@ -32,7 +32,7 @@
 ### 활동
 - 애플리케이션 제작 창업 동아리 창설 및 운영
 - 스트릿 댄서 종합 애플리케이션 MVP 제작과정 전반 참여,
-<a href="https://impartial-plume-a00.notion.site/cfd887a5a8904d85a1bf2ab10de6e636?pvs=4" style = "color:lightblue">활동 결과 보러가기</a>
+<a href="https://impartial-plume-a00.notion.site/cfd887a5a8904d85a1bf2ab10de6e636?pvs=4" style = "color:#D5FFFF">활동 결과 보러가기</a>
 
 ### 언어
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white) ![p5.js](https://img.shields.io/badge/p5.js-ED225D.svg?&style=for-the-badge&logo=p5.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
