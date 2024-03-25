@@ -42,3 +42,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harperdoincode)](https://solved.ac/harperdoincode/)
 
+<!-- 백준 티어 멋져요 >< -->
