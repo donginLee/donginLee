@@ -1,13 +1,12 @@
 
 <h1> 이동인 Dong-in Lee / Harper </h1>
-<br>
 
+<img src="./portrait.jpg">
+<br>
 <h3 align="center" style = "font-style:italic; color:#000000;">Creation  Beyond  Imagination</h3>
 <h3 align="center" style = "font-style:italic; color:#505050;">Creation  Beyond  Imagination</h3>
 <h3 align="center" style = "font-style:italic; color:#999999;">Creation  Beyond  Imagination</h3>
 <br>
-<img src="./portrait.jpg">
-
 ### 프로필
 
 | Date |     Contents 	|    Organizaion |
