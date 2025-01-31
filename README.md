@@ -14,8 +14,8 @@
 |-------|:----------:|:-----------:|
 | `2017.02.` ~ `2023.08.` 	| 서강대학교 학사(졸업), 수학(주전공), 아트&테크놀로지(복수전공) | 서강대학교  |
 | `2022.01.` ~ `2022.05.` 	| 교환학생 프로그램 참여 | 미국, Chapman university  |
-| `2024.03.` ~  	| 신한투자증권 프로 디지털 아카데미 4기 | 신한투자증권  |
-
+| `2024.03.` ~ `2024.06.` 	| 신한투자증권 프로 디지털 아카데미 4기 | 신한투자증권  |
+| `2024.07.` ~ `2025.01.` 	| Samsung Convergence Software Academy 23기 | 삼성전자 DX  |
 
 ### 프로젝트
 - 유니티 게임 'Black Out', FE 개발 
@@ -42,12 +42,9 @@
 <br>﻿
 
 ### Soft Skills
-![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) 
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+  
 ### PS
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harperdoincode)](https://solved.ac/harperdoincode/)
 
-<!-- 백준 티어 멋져요 >< -->
